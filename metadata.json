@@ -1,0 +1,8 @@
+{
+  "name": "Stefanny Lima Noivas DF",
+  "description": "Vestidos de noiva em Brasília: modelos prontos e sob medida para cerimônia religiosa e civil, aluguel e venda. Opções econômicas, intermediárias e alta costura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
